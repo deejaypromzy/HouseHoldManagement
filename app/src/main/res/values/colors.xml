@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff0004</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+    <color name="app_primary">#1976D2</color>
+    <color name="app_primary_dark">#1565C0</color>
+    <color name="grey">#d0dddddd</color>
+    <color name="grey2">#a1a1a1</color>
+    <color name="light_grey">#EEEEEE</color>
+    <color name="white_transparent">#c7c6c6</color>
+    <color name="black">#000</color>
+    <color name="text_color">#D50000</color>
+    <color name="point_halo_color">#607D8B</color>
+    <color name="wheel_unactive_color">#BDBDBD</color>
+    <color name="wheel_active_color">#4CAF50</color>
+<color name="white">#ff0004</color>
+    <color name="colorTextHint">#51d8c7</color>
+
+
+</resources>

@@ -1,0 +1,521 @@
+<resources>
+    <string name="app_name">HouseHold Management</string>
+    <string name="title_activity_cooking__recipe">Cooking Recipe</string>
+    <string name="title_activity_personal__finance_and__budgeting">Personal Finance &amp;
+        Budgeting
+    </string>
+    <string name="sms">Management</string>
+    <string name="title_activity_cleaning_and__laundry">Cleaning &amp; Laundry</string>
+    <string name="title_activity_room__decoration_and__bed__making">Room Deco &amp; Bed Making
+    </string>
+    <string name="title_activity_child__caring">Child Caring</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_label">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="cheese_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
+
+    <string-array name="ChildTitles">
+        <item>Feed Babies</item>
+        <item>Bath Babies</item>
+        <item>Change Babies Diaper</item>
+        <item>Make Baby Sleep</item>
+
+    </string-array>
+    <string-array name="ChildInfo">
+        <item>
+            <![CDATA[
+                        If you have recently decided to bottle feed your newborn, you are probably full of questions about formula preparation, sanitizing utensils, feeding positions, and burping techniques. Here are seven steps for successfully bottle feeding your baby <a href="">....Read More</a>
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            You have never given a bath to an infant and you dont really know how to get started?  Here is a practical guide that explains all the steps you need to take to give your baby a safe bath<a href="">....Read More</a>
+            ]]>
+        </item>
+
+        <item>
+
+            <![CDATA[
+            Learn how to change a conventional disposable diaper.</p><p>There&apos;s no one right way to change a disposable diaper, of course. In time, you may develop your own method – which you&apos;ll be able to do in a darkened room while half-asleep<a href="">....Read More</a>
+            ]]>
+        </item>
+        <item>
+        <![CDATA[
+           You don&apos;t have to cry it out to eliminate your baby&apos;s nighttime wakings. Here is a practical way to put ur baby to  sleep all night long  <a href="www.googole.com">....Read More</a>
+
+        ]]>
+        </item>
+    </string-array>
+    <array name="ChildDetail">
+        <item><![CDATA[
+
+        <p>If you&apos;ve recently decided to bottlefeed your newborn</a>, you&apos;re probably full of questions about formula preparation, sanitizing utensils, feeding positions, and burping techniques. Here are seven steps for successfully  your baby.</p><p><b>1. Make sure all bottles, nipples, and other utensils are clean. </b>If the water in your home is chlorinated, clean the utensils in your dishwasher or wash them in hot tap water with dishwashing detergent and then rinse them in hot tap water. If you have well water or nonchlorinated water, either place the utensils in boiling water for five to 10 minutes or use a process called terminal heating.</p><p>In terminal heating you clean, but do not sterilize, the bottles in advance. You then fill them with the prepared formula and cap them loosely. Next, the filled bottles are placed in a pan with water reaching about halfway up the bottles, and the water is brought to a gentle boil for about 25 minutes.<<p><b>2. Read the directions.</b> Be sure to follow the manufacturer&apos;s directions exactly for the formula type you choose. Too much water and your baby won&apos;t get the calories and nutrients she needs; too little water and the high concentration of formula could cause diarrhea or dehydration.</p><p><b>3. Prepare the formula.</b> Bring the water you plan to use in the formula to a boil for approximately one minute. Then add it to the formula powder. If you&apos;re preparing this in advance, be sure to store it in the refrigerator. If the formula is left out of the refrigerator for longer than one hour or if you don&apos;t use refrigerated formula within 24 hours, throw it out.</p><p><b>4. Warm the refrigerated formula.</b> Refrigerated formula doesn&apos;t necessarily have to be warmed up for your baby, but most infants prefer it at least at room temperature. The easiest way to warm refrigerated or frozen milk is to place the container in a pan of water on the stove at low heat and rotate it frequently. Microwave ovens should not be used for heating bottles; this can overheat the milk in the center of the container. Even if the bottle feels comfortably warm to your touch, the superheated milk in the center can scald your baby&apos;s mouth. Also, the bottle itself can explode if left in the microwave too long.</p><p>If you warm a bottle or use it immediately after terminal heating, test it in advance to make sure it&apos;s not too hot for your baby. The easiest way to test the temperature is to shake a few drops on the inside of your wrist.</p><p><b>5. Place your baby in a feeding position.</b> Cradle her in a semi-upright position and support her head. Don&apos;t feed her lying down -- formula can flow into the middle ear, causing an infection. To prevent your baby from swallowing air as she sucks, tilt the bottle so that the formula fills the neck of the bottle and covers the nipple.</p><p><b>6. Take note of your baby&apos;s intake.</b> The pediatrician will probably ask you how much your baby has eaten, so be prepared to answer the question. Your newborn will probably take between two and four ounces per feeding during his first few weeks (during the first few days, he may take less than an ounce at feedings), and will probably be hungry every two to four hours. It&apos;s best to feed your baby on demand. Don&apos;t encourage your baby to finish the bottle if he&apos;s not interested. And if he&apos;s still sucking enthusiastically when the bottle is empty, offer him more.</p><p><b>7. Burp your baby.</b> Babies get fussy and cranky when they swallow air during feedings. This happens more often with bottlefed infants, though breastfed infants can also swallow air. To prevent a tummy full of air, burp your baby frequently -- after every two or three ounces of formula. If your baby doesn&apos;t burp after a couple of minutes of trying, resume feeding. Here are the three best positions:</p><ul></ul><ul><li><b>Over the shoulder:</b> Drape your baby over your shoulder and firmly pat or rub her back.</li><li><b>On the lap:</b> Sit your baby upright, lean her weight forward against the heel of your hand, and firmly pat or rub her back.</li><li><b>Lying down:</b> Place baby stomach-down on your lap and firmly rub or pat her back.</li></ul><ul></ul>
+
+        ]]></item>
+
+        <item><![CDATA[
+<UL><LI>Have everything ready before you start the bathing process.<LI>Make sure the room is warm -- if necessary, use a space heater to help warm it up.<LI>In a small bowl, mix a little baby soap with warm water. Use this solution for washing so you won&apos;t have to worry about getting too much soap on an already slippery baby.<LI>Want to remember these early days? Get someone else to take a picture or two of your little one in the bath.</UL><P><B>Step-by-step:</b><BR>1. Choose a clean place to bathe your baby. Often a sink (especially the kitchen sink, since it&apos;s higher it won&apos;t strain your back as much), or use a baby bath. I recommend a bath sponge insert or putting a hand towel on the bottom of the sink or tub. Little wet babies are very slippery, so it&apos;s important to have a non-skid cushion between them and the slippery surface.<P>2. Make sure that the room is warm and draft-free and have everything -- from soap to towel -- ready. <P>3. Relax. Don&apos;t plan on answering the phone or the door or using the facilities. <P>4. Fill the bath a few inches deep with warm (baby temperature) water. Most babies don&apos;t like the water running while they are in the bath. Also, make sure to move the spigot (if you can) out of the way.<P>5. Slowly get the baby undressed. Talk to your baby in a soothing voice and tell her what&apos;s going to be happening while you&apos;re removing her clothing.<P>6. While cradling the baby in your arms, speak reassuringly and look her in the eyes as you slowly lower her into the bath. Use your elbow to support her head as she gets used to the water.<br /><br />7. Start washing her face. Use a very small amount of soap. (We cut a soft towel into little strips for washing the baby&apos;s face.) They really don&apos;t like having their whole face covered, so just wash one small area at a time. <P>8. Next, wash the top of the head and work your way down... and don&apos;t forget behind the ears, her neck and under the arms -- all places where stuff can accumulate.<P>9. Wash your baby&apos;s arms and legs. It&apos;s amazing the lint that collects in their little fingers and toes, so make sure to rinse those areas well.<P>10. Clean around the belly button, and finally, the diaper zone. Remember to rinse this area thoroughly.<p>11. Once you&apos;ve washed the front of baby, it&apos;s time to clean the back. Cup your hand around the baby&apos;s neck and hold your little one up so that with the other hand, you can clean her back and rear. <P>12. Almost done! Lean your baby back and firmly, they are slippery, put a hand under each of the underarm, lean her slowly forward and pick her up out of the bath. Gently lay her down on the towel.<P>13. Dry your baby. Some babies like hooded towels (they are cute) and its comforting to them and keeps their wet heads warm. (Make sure the hood doesn&apos;t descend into their eyes). Hood or no hood, make sure that you keep your little one&apos;s head warm while you dry her.<P>14. Your baby&apos;s clean! Time for a new diaper and a clean outfit.<P><B>Checklist:</b><BR>So, what do you need to have? Here&apos;s a quick checklist:
+        ]]></item>
+
+        <item>
+            <![CDATA[
+
+
+<div >Getting started with disposable diapers</div>
+<p>Use our step-by-step guide to learn how to change a conventional disposable diaper.</p><p>There&apos;s no one right way to change a disposable diaper, of course. In time, you may develop your own method – which you&apos;ll be able to do in a darkened room while half-asleep.</p><p>Before you begin, check our list of diapering supplies to make sure you have everything you need.</p>
+<p>Step 1. Set the stage</p>
+<p>Set up a warm, clean changing area. If you&apos;re not using a changing table, consider laying a blanket, towel, or changing mat on the floor or bed.</p><p>Open up a new clean diaper and place the back half (the half with tabs on either side) under your baby. The top of the back half should come up to your baby&apos;s waist. Now the clean diaper is ready to go – and is there to protect your changing table from getting dirty. (If the dirty diaper is a big mess, you might want to lay a cloth, towel, or disposable pad under your baby instead of the clean diaper while you clean up.)</p><p>Safety note: If your changing station is on an elevated surface such as a changing table, keep one hand on your baby at all times. Don&apos;t leave your baby unattended for even a second, even strapped in.</p></li>
+Step 2. Peel back the layers</div>
+<p>Unfasten the tabs on the dirty diaper. To keep them from sticking to your baby, fold them over.</p></li>
+
+<div class="slideHeadline">Step 3. Take precautions</div>
+<p>Pull down the front half of the dirty diaper. If your baby is a boy, you can cover his penis with a clean cloth or another diaper so he doesn&apos;t pee on himself or you.</p></li>
+<div>Step 4. Contain the mess</div>
+<p>If there&apos;s poop in the diaper, use the front half of the diaper to wipe the bulk of it off your baby&apos;s bottom.</p></li>
+<div>Step 5. Protect the changing surface</div>
+<p>Fold the dirty diaper in half under your baby, clean side up. (This provides a layer of protection between the clean diaper and your baby&apos;s unclean bottom.) To do this, lift your baby&apos;s bottom off the table by grasping both ankles with one hand and gently lifting upward.</p></li>
+<div>Step 6. Wipe from front to back</div>
+<p>Clean your baby&apos;s front with wet cloth or wipe. If your baby&apos;s a girl, wipe from front to back (toward her bottom). This helps keep bacteria from causing an <div>Step 7. Mind the creases</div>
+<p>If your baby&apos;s diaper is <a href="/0_baby-poop-a-complete-guide_10319333.bc">poopy</a>, grab another wipe and clean her bottom. You can either lift her legs or roll her gently to one side and then the other. Be sure to clean in the creases of her thighs and buttocks, too.</p></li>
+<div>Step 8. Take time to dry</div>
+<p>Let your baby&apos;s skin air dry for a few moments or pat it dry with a clean cloth. To help treat or prevent <a href="/0_diaper-rash_81.bc">diaper rash</a>, you may want to apply rash cream or petroleum jelly.</p></li>
+Step 9. Place dirties out of reach</div>
+<p>Remove the dirty diaper. Set it aside and out of reach. Your baby will be wiggling and grabbing before you know it, so don’t skip this step if you want to avoid an even bigger mess.</p></li>
+Step 10. Minimize leaks</div>
+<p>If you followed step one, a clean diaper will be underneath your baby, ready to go. Pull the front half of it up to your baby&apos;s tummy. If your child is a boy, point his penis down so he&apos;s less likely to pee over the top of the diaper.</p><p>If poop keeps leaking out the top back of your baby&apos;s diaper, it may be time to go up a size. The weights noted on diaper packaging are just guidelines, and your baby may need a bigger size sooner.</p></li>
+Step 11. Newborn precautions</div>
+If your baby is a newborn, avoid covering the <a href=" ">umbilical cord stump</a> until it has dried and fallen off. You can buy special disposable diapers with a notch cut out for the stump, or fold down the front half of a regular diaper.</li>
+Step 12. Fit for comfort</div>
+<p>Make sure that the part of the diaper between your baby&apos;s legs is spread as wide as seems comfortable. Too much bunching in that area can cause chafing and discomfort.</p></li>
+
+<p>Fasten the diaper at both sides with the tabs. The diaper should be snug but not so tight that it pinches. Make sure the tabs aren&apos;t sticking to your baby&apos;s skin.</p></li>
+Step 14. Success</div>
+All changed!</li>
+Step 15. Keep your baby safe</div>
+<p>Dress your baby and put her in a safe place – like on the floor with a toy or in her crib – while you clean up the diaper changing area.</p></li>
+Step 16. Dispose with care</div>
+<p>Fold up the dirty diaper, fasten it closed with its tabs, and put it in the trash or diaper pail. If it&apos;s <a href="/0_disposable-diapers-a-quick-guide-to-earth-friendly-choices_10320141.bc">flushable or compostable</a>, dispose of it according to the manufacturer&apos;s guidelines.</p><p>If you&apos;re out of the house, carry extra plastic or biodegradable bags with you so you have somewhere to put dirty diapers if there&apos;s nowhere to dispose of them.</p></li>
+
+
+
+
+            ]]>
+        </item>
+
+
+        <item>
+            <![CDATA[
+            <h2>1. Make sleep a priority.</h2> <div><p>Why should you worry about your baby&apos;s sleep habits? Remember that the human brain -- yours and your baby&apos;s -- runs on sleep. The American Academy of Pediatrics (AAP) has linked babies&apos; frequent night wakings to everything from <a>postpartum depression</a> in moms to future obesity and behavior problems in kids. As Marc Weissbluth, MD, the author of &quot;Healthy Sleep Habits, Happy Child," explains, children who don&apos;t get enough consolidated REM sleep have shorter attention spans, so they don&apos;t learn as well. These babies also release more of the stress hormone cortisol, setting them up for frequent night wakings and stunted naps. Tired yet?</p></div>  2. Get the green light.</h2><div ><p>Before you start any sleep-training method, make sure all the necessary people are on board. Begin by <a>talking</a> to your pediatrician. Rule out any underlying medical conditions, such as reflux, sleep apnea, and allergies. Also, get a feel for how often your baby should be eating and sleeping within a 24-hour period. Next, get your partner involved. Make your plan together, deciding how you&apos;ll react to wakings at given times. If your 10-month-old is nursing six times a night, both of you must agree that you&apos;ll feed him once before bed, then not again until morning.</p></div><h2>3. Log your baby&#039;s sleep.</h2><div ><p>If you have a hard time remembering how many times your baby woke last night, much less how she slept last week, a log will help you notice patterns. After a week of tracking her days and nights, start by figuring out her ideal bedtime. You might say, &quot;Oh, she&apos;s always fussy at 7 p.m. -- that&apos;s probably when I should be putting her down, and I&apos;m missing the window." A log will also let you see that your baby may not have cried during the night for as long as you thought. Five minutes of fussing can feel like 50 when it&apos;s 2 a.m.</p></div> <h2> 4. Create a routine.</h2><div ><p>Fifteen minutes is all you need to perform a quiet, soothing ritual that will help your baby&apos;s mind and body prepare for sleep. Remain in his nursery or near his <a  >crib</a> and choose the same two or three quiet, calm activities, such as reading or singing. Be sure to keep anything stimulating -- tickling, TV -- out of the equation. For babies over 6 months, incorporate a favorite stuffed animal or blanket into the routine.</p></div>Getting baby on a regular schedule is an important part to helping him sleep through the night. Find out the best ways to establish a bedtime routine.</p></div></div></div>5. Pick a start date.</h2>5. Pick a start date.</h2><div>There&apos;s never a perfect time to start sleep training. But if you&apos;re using the Sleep Lady Shuffle method, it&apos;s best to start when you know you&apos;ll have at least three weeks without any changes in time zone, cribs, or bedrooms -- especially if your baby is alert and sensitive. The most popular night to begin is Friday because of the upcoming weekend. Some parents use vacation days so they won&apos;t have to worry about being at work in the morning. And remember that you&apos;ll always be more successful if your baby has been <a>napping</a> well.</p></h2>6. Set the scene.</h2><div><p>The right environment means everything when it comes to sleep training. Keep the room cool and comfortable -- between 65 and 70 degrees. If your baby&apos;s room gets a lot of light -- and she has trouble with naps and early wake-ups -- install room-darkening shades. (You may also want to invest in a night-light.)</p></div></div>7. Put baby down awake.</h2>7. Put baby down awake.</h2><div ><p>Run through your bedtime routine with the lights on, then place your baby in the <a >crib</a> drowsy but awake. Expect some tears, especially if she&apos;s used to falling asleep in your arms. For the first three nights, sit next to the crib in a chair, offering gentle, intermittent reassurances and occasional touches. If she becomes hysterical you can pick her up, but put her back as soon as she calms down. Stay beside the crib until she&apos;s sound asleep. Respond to night wakings the same way.</p></div>8. Move a chair.</h2><div ><p>Use the same calming techniques and move the chair progressively farther from the <a >crib</a> every third night until you&apos;re outside her room and out of view. It&apos;s important to keep moving. If you stay in one spot for more than a few days, your baby will grow accustom to your being there, and this will become her new sleep crutch.</p></div><p>An eight-month-old baby boy keeps waking up throughout the night. <a  >Baby Sleep</a> Whisperer Ingrid Prueher discovers the miracle nursery item that will help him go to sleep -- without interruption!</p>9. Go back to bed.</h2><p>Within a couple of weeks, you should be able to put your baby down to sleep at bedtime, say good night, and close the door -- and she should be able to quickly put herself back to sleep during those inevitable night wakings.</p> 10. Stay consistent.</h2>p>One of the biggest mistakes parents make, no matter what method they use, is being inconsistent. At some point your little one will cry for you in the middle of the night, even if you think you&apos;ve all made it over the sleep-training hump. Go to his cribside to check on him and make sure all is well -- just be sure not to restart an old sleep crutch during this check. After that, try comforting him from outside the door, if you can. If you regress due to illness or travel, get back on the training wagon as soon as possible. Otherwise you risk sabotaging the weeks of hard work you&apos;ve already put in.</p>
+            ]]>
+
+        </item>
+    </array>
+    <array name="ChildNews">
+        <item>Your Step-by-Step Guide to Bottle feeding your baby</item>
+        <item>Step-by-step guide to Giving your baby a bath</item>
+        <item>Get step-by-step instructions on changing your babys diaper and preventing diaper
+            rash.
+        </item>
+        <item>Your Step-by-Step Guide to Baby Sleep Success</item>
+    </array>
+    <array name="ChildCareImage">
+        <item>@drawable/feedbaby2</item>
+        <item>@drawable/bathingchild2</item>
+        <item>@drawable/changingdiaper4</item>
+        <item>@drawable/sleepingchild2</item>
+    </array>
+
+
+    <string-array name="roomTitles">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+
+    </string-array>
+    <string-array name="roomInfo">
+        <item>
+            <![CDATA[
+The living room is probably the first place people choose to decorate. It’s a fun room with so many possibilities, what with the furniture and the accessories and lighting options. Plus, the living room is generally located in a higher traffic area, and the publicity the room receives from visitors is often motivating for homeowners to get the décor right. Here are some peeks at a few real-life living rooms in a variety of styles and layouts to inspire and guide your own living room decorating decisions.
+
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+Grey stone or tile provides a textural vibe or sense of depth as a fireplace surround, which is another way to “decorate” with great design that complements a contemporary scheme.
+
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+The living room overall is small, although a couple of large windows helps it to feel a bit more spacious than the square footage suggests. The windows also take up a lot of the wall space, decreasing the need (or capacity) for many decorations.
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+Two contemporary bookshelves on the front door’s opposing wall house nearly all the decorations of the cozy living room. The shelves are orderly and contain classic colors, which resonates with the space’s color palette.
+            ]]>
+        </item>
+
+        <item>
+
+            <![CDATA[
+            A slate blue loveseat (a full sofa wouldn’t fit on this wall) rests under a gallery wall of identically framed photographs. When mounted this way, the nine photos look like one large piece of wall art. Simplifying and combining individual decorations into one larger whole always helps a cozy living room feel decorated but not cluttered.
+            ]]>
+        </item>
+        <item>
+        <![CDATA[
+The décor of this cozy living room makes an entering guest excited about seeing the rest of the cottage, too. That’s one thing that good decorating does.
+        ]]>
+        </item>
+    </string-array>
+    <array name="roomDetail">
+        <item><![CDATA[
+
+The living room is probably the first place people choose to decorate. It’s a fun room with so many possibilities, what with the furniture and the accessories and lighting options. Plus, the living room is generally located in a higher traffic area, and the publicity the room receives from visitors is often motivating for homeowners to get the décor right. Here are some peeks at a few real-life living rooms in a variety of styles and layouts to inspire and guide your own living room decorating decisions.
+Grey stone or tile provides a textural vibe or sense of depth as a fireplace surround, which is another way to “decorate” with great design that complements a contemporary scheme.
+A bit of color is a good way to bring in some warmth and personality to the contemporary living room space. Maps are on trend right now, particularly those with a brighter, bolder, and more modern look. Whatever you choose, keep the colorful piece proportionate to the living room’s size.        ]]></item>
+        A round glass coffee table is an excellent way to break up the harsh right angles that can
+        be prevalent in most living rooms, particularly those that align themselves with
+        contemporary design and the clean lines that go with that.
+        The open concept living room does well when it is founded upon the neutral color palette
+        that permeates the open space; it might look a bit off-ish if the living room was fraught
+        with color while the visually connected kitchen and dining rooms maintained neutrality (or
+        vice versa). However, that’s not to say that even the neutral living room should avoid all
+        color. These colorful blocks, tucked away under a side table, welcome children while
+        providing a discreet dose of color.
+
+        <item><![CDATA[
+In the contemporary house layout called “open concept,” where the living room, dining room, and kitchen all physically join together within the same space, the living room area must be designated by something other than walls.
+A single clock serves as the hearth’s sole adornment. Where walls are at a minimum in an open concept (and, in this case, with a wall of windows and a wall of fireplace stone), a clock makes an excellent hearth accessory. As a side note: It’s generally a good decorating strategy to have some sort of timepiece within view of the living room’s inhabitants.
+]]></item>
+
+        <item>
+            <![CDATA[
+
+The layout of furniture in an open concept living room is critical in defining the space. A focal feature, such as a fireplace, provides a good starting point for furniture arrangement and orientation. A sofa and pair of club chairs can face the fireplace, which means that their (the furniture’s) back will form a sort of visual and intuitive designation of “living room” space that is joined but separate from the other spaces in the open concept.
+Another round form connects with the round glass coffee table. Larger, more substantive pieces tend to work well in minimalist modern living rooms, even when they are printed or designed with multiple smaller patterns on that singular piece. Because one piece is simpler and less cluttered than multiples.
+]]>
+        </item>
+
+
+        <item>
+            <![CDATA[
+
+A round glass coffee table is an excellent way to break up the harsh right angles that can be prevalent in most living rooms, particularly those that align themselves with contemporary design and the clean lines that go with that.
+The open concept living room does well when it is founded upon the neutral color palette that permeates the open space; it might look a bit off-ish if the living room was fraught with color while the visually connected kitchen and dining rooms maintained neutrality (or vice versa). However, that’s not to say that even the neutral living room should avoid all color. These colorful blocks, tucked away under a side table, welcome children while providing a discreet dose of color.
+            ]]>
+
+        </item>
+        <item><![CDATA[
+
+The living room is probably the first place people choose to decorate. It’s a fun room with so many possibilities, what with the furniture and the accessories and lighting options. Plus, the living room is generally located in a higher traffic area, and the publicity the room receives from visitors is often motivating for homeowners to get the décor right. Here are some peeks at a few real-life living rooms in a variety of styles and layouts to inspire and guide your own living room decorating decisions.
+Grey stone or tile provides a textural vibe or sense of depth as a fireplace surround, which is another way to “decorate” with great design that complements a contemporary scheme.
+A bit of color is a good way to bring in some warmth and personality to the contemporary living room space. Maps are on trend right now, particularly those with a brighter, bolder, and more modern look. Whatever you choose, keep the colorful piece proportionate to the living room’s size.        ]]></item>
+
+        <item><![CDATA[
+In the contemporary house layout called “open concept,” where the living room, dining room, and kitchen all physically join together within the same space, the living room area must be designated by something other than walls.
+A single clock serves as the hearth’s sole adornment. Where walls are at a minimum in an open concept (and, in this case, with a wall of windows and a wall of fireplace stone), a clock makes an excellent hearth accessory. As a side note: It’s generally a good decorating strategy to have some sort of timepiece within view of the living room’s inhabitants.
+]]></item>
+
+        <item>
+            <![CDATA[
+
+The layout of furniture in an open concept living room is critical in defining the space. A focal feature, such as a fireplace, provides a good starting point for furniture arrangement and orientation. A sofa and pair of club chairs can face the fireplace, which means that their (the furniture’s) back will form a sort of visual and intuitive designation of “living room” space that is joined but separate from the other spaces in the open concept.
+Another round form connects with the round glass coffee table. Larger, more substantive pieces tend to work well in minimalist modern living rooms, even when they are printed or designed with multiple smaller patterns on that singular piece. Because one piece is simpler and less cluttered than multiples.
+]]>
+        </item>
+
+
+    </array>
+    <array name="roomNews">
+        <item>How to Decorate a Funky Living Room</item>
+        <item>How to Decorate a Symmetrical Living Room</item>
+        <item>How to Decorate a Living Room with Only Furniture</item>
+        <item>How to Decorate a Contemporary Living Room</item>
+        <item>How to Decorate a Funky Living Room</item>
+        <item>How to Decorate a Symmetrical Living Room</item>
+    </array>
+    <array name="roomImage">
+        <item>@drawable/room2</item>
+        <item>@drawable/room3</item>
+        <item>@drawable/room4</item>
+        <item>@drawable/room5</item>
+        <item>@drawable/room6</item>
+        <item>@drawable/room7</item>
+    </array>
+
+
+    <string-array name="DishTitles">
+        <item>Waakye</item>
+        <item>Aprapransa</item>
+        <item>Eto</item>
+        <item>Kelewele</item>
+    </string-array>
+    <string-array name="DishDetail">
+        <item>
+        <![CDATA[
+
+<h3>
+Ingredients </h3>
+•	2 cups of white rice<br/>
+•	1 cup of cowpea or red beans<br/>
+•	2 millet stalks<br/>
+•	Beef, cow, foot, cow skin (wele)<br/>
+•	Tomatoes, onion, ginger, garlic, kpapkashito<br/>
+•	Vegetable oil<br/>
+•	Maggi cubes, beef season, salt or other seasoning of choice<br/>
+<h3>Method</h3>
+•	Remove unwanted particles and wash beans and soak beans overnight to reduce the cooking time<br/>
+•	Boil beans in a large saucepan with enough water<br/>
+•	Wash millet stalks quickly and add to the boiling beans<br/>
+•	Wash rice, drain water and remove the millet stalks before adding the rice to the beans when cooked<br/>
+•	Add salt and stir, leave to cook whiles frequently checking to ensure desired texture<br/>
+<h4>Waakye Stew</h4>
+•	Wash all meat to be used, season with a blended mix of garlic, ginger, and onion, salt, magi cube, other preferred seasoning as desired then cook. Adjust seasoning to taste<br/>
+•	Blend tomatoes and kpakposhito, blend garlic, ginger and onion also and put aside.<br/>
+•	Put oil in saucepan and add chopped onions and fry, add blended garlic, ginger and onion mixture and fry till the onion turn golden brown<br/>
+•	Add blended tomatoes and kpakposhito, stir and allow to cook for like 30 mins<br/>
+•	Add the steamed meat with stock to the stew and allow to cook for about 10 minutes<br/>
+•	Add salt, maggi, or seasoning as desired and allow to cook till desired dark brown color is reached. Check your salt content<br/>
+•	Serve stew with cooked waakye, spaghetti and stewed gari (optional) but recommended<br/>
+...........Waakye is Ready!!!
+        ]]>
+        </item>
+        <item>
+            <![CDATA[
+<h3>Ingredients</h3>
+2 cups heaped roasted floor<br/>
+1 serving spoonful palm oil<br/>
+2 medium sized tomatoes<br/>
+1 small piece smoked fish<br/>
+Salted fish/momoni (optional)<br/>
+Salted fish/momoni (optional)<br/>
+Half beans (optional)<br/>
+Pepper and salt to add taste<br/>
+Crabs (optional)
+<h3>
+Method</h3>
+•	Wash and boil beans till tender and set aside<br/>
+•	Put palm oil on fire<br/>
+•	Add sliced onion to fry till brown<br/>
+•	Add momoni and allow to fry for 5minutes<br/>
+•	Add ground pepper and tomato and then fish<br/>
+•	Allow to cook whilst stirring occasionally<br/>
+•	Add water, cover and allow to boil<br/>
+•	Add boiled beans<br/>
+•	Add roasted corn floor and stir till well cooked<br/>
+•	Remove from fire and serve hot- garnish with cooked crabs.
+<p>Congrats!!! you just prepared yourself Apraprana<p/>
+            ]]>
+        </item>
+        <item>
+
+            <![CDATA[
+<h3>
+Ingredients</h3>
+•	2 slightly ripe plantain (hard)<br/>
+•	1 chili pepper<br/>
+•	Salt to add taste<br/>
+•	1 small sized onion<br/>
+•	5-6 tablespoonful palm oil<br/>
+•	Add roasted peanuts<br/>
+•	2 eggs.<br/>
+•	1 large avocado<br/>
+<h3>
+Method </h3>
+•	Boil plantains and eggs for 30mins and add half teaspoon of salt<br/>
+•	Wash onions and peppers<br/>
+•	Grind onion, pepper and some peanuts till you get a smooth texture.<br/>
+•	Add a pinch of salt<br/>
+•	Mash plantains in “asanka” or earthenware pot<br/>
+•	Add grinded mixture to mashed plantain and mix thoroughly<br/>
+•	Slice a quarter of onions into 5 to 6 tablespoonful palm oil and set on fire for a minute or two<br/>
+•	Add palm oil to the “eto” a spoonful at a time until evenly mixed<br/>
+•	Garnish “eto” with roasted peanuts, peeled eggs and sliced avocado<br/>
+•	Enjoy your special home-made “eto”<br/>
+Congratulations!!!!!
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+
+<h3> Ingredients </h3>
+•	Plantains, bananas, ripe, but not past ripe<br/>
+•	Peeled and cut into bite-sized cubes<br/>
+•	Half teaspoon pepper or teaspoon red pepper<br/>
+•	Half peeled grated fresh gingerroot<br/>
+•	1 teaspoon salt<br/>
+•	2 teaspoons water<br/>
+•	Palm oil(for frying) or vegetable oil(for frying).<br/>
+<h3>
+Method
+</h3>
+•	Grind together grated ginger root, pepper, and salt, then mix with water<br/>
+•	In a glass bowl toss together, the plantain cubes and spice mixture<br/>
+•	In deep skillet, heat oil (just deep enough to allow plantains to float to 350 degrees.<br/>
+•	Fry plantains, turning once, until golden brown on both sides.<br/>
+•	Drain on absorbent paper, keep in warmed oven until all plantains are fried.<br/>
+•	Serve kelewele.<br/>
+Kelewele is READYYYYY!!!!!
+
+            ]]>
+        </item>
+
+    </string-array>
+    <array name="DishInfo">
+        <item><![CDATA[
+
+
+        ]]></item>
+
+        <item><![CDATA[
+
+
+        ]]></item>
+
+        <item>
+            <![CDATA[
+
+
+
+            ]]>
+        </item>
+
+
+        <item>
+            <![CDATA[
+
+
+            ]]>
+
+        </item>
+    </array>
+    <array name="DishdNews">
+        <item>Your Step-by-Step Guide to Prepare Waakye</item>
+        <item>Step-by-step guide to Prepare Aprapransa</item>
+        <item>Get step-by-step instructions on preparing Eto.</item>
+        <item>Your Step-by-Step Guide to preparing Kelewele</item>
+    </array>
+    <array name="DishImages">
+        <item>@drawable/waakye</item>
+        <item>@drawable/apapransa</item>
+        <item>@drawable/oto2</item>
+        <item>@drawable/tuozaafi</item>
+    </array>
+
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_youtube_video">Youtube Video</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_add_expences">Add Expences</string>
+    <string name="title_activity_choose_category">Choose Category</string>
+    <string name="title_activity_select_category">select Category</string>
+    <string name="title_activity_add_category">Add Category</string>
+    <string name="title_activity_select_icon">SelectIcon</string>
+    <string name="title_activity_view_expenses">View Expenses</string>
+    <string name="title_activity_try_fab">tryFab</string>
+    <string name="title_add_income">Add Income</string>
+    <string name="title_bed_making">Bed Making</string>
+
+
+    <string-array name="BedTitles">
+        <item>Base Layers </item>
+        <item> Bottom Sheet</item>
+        <item> Blanket</item>
+        <item>Top Sheet </item>
+
+    </string-array>
+    <string-array name="BedInfo">
+        <item>
+            <![CDATA[
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            ]]>
+        </item>
+
+        <item>
+
+            <![CDATA[
+            ]]>
+        </item>
+        <item>
+        <![CDATA[
+
+        ]]>
+        </item>
+    </string-array>
+    <array name="BedDetail">
+        <item><![CDATA[
+1. Base Layers
+Before you begin to make the bed, determine whether you would like to include these two optional items: a mattress pad and a dust ruffle. A dust ruffle goes over the box spring, hiding the box spring and anything underneath the bed. If you prefer a sleeker, modern style, you may not want a dust ruffle. A mattress pad is a protective covering that can, but does not always, include a little bit of additional padding. You will want to put these items in place before you move on to sheets and bedding.
+
+
+
+        ]]></item>
+
+        <item><![CDATA[
+        Most people use fitted sheets on their beds. Slip the corners of the sheet over your mattress and you are ready to move on to the next step.
+
+If you want to use a flat sheet instead of a fitted sheet for the bottom, tuck in the sheet at the top and bottom of the mattress and fold the corners following our How to Make Hospital Corners instructions below.
+
+        ]]></item>
+
+        <item>
+            <![CDATA[
+How far you pull up the top sheet is a matter of personal preference. Some people prefer to pull it all the way up to the top of the mattress and tuck in their pillows. Others choose to pull it far enough up that they can fold it over the duvet, quilt, blanket, or comforter for a stylish contrast. To secure the top sheet, follow the instructions for neatly tucked corners, called hospital corners, below. Leave the sides untucked if you would like, so it is easier to get into bed at night.
+
+
+How to Make  Corners
+
+Step 1: Lay the top sheet flat, ensuring it hangs evenly on both sides of the bed.
+Step 2: Tuck in the sheet along the foot of the bed. Excess fabric should be hanging down on either side of the bed.
+Step 3: At one corner, grab the fabric that is hanging down along the side, lift straight up, and place it on top of the mattress. The sheet should be smooth around the corner of the mattress. Tuck in any part of the sheet hanging below the mattress.
+Step 4: Fold the fabric laying on top of the mattress down over the side. The sheet corner should form a 45-degree angle with the mattress corner.
+Step 5: Tuck in any part of the sheet that hangs below the mattress.
+Step 6: Repeat on the other corner.
+
+
+Tip!
+
+For a picture-perfect bed, a little bit of the top sheet should peek out under the pillows. When using patterned or embroidered sheets, lay the top sheet on the bed patterned side down. This way, when you fold it over, the pattern or embroidery will be right-side up and visible on your made bed.
+
+            ]]>
+        </item>
+
+
+        <item>
+            <![CDATA[
+            Some like to use a blanket in-between the top sheet and top bedding layer (duvet, quilt, comforter). To keep things neat, follow the hospital corners instructions above and leave the sides of the blanket untucked for easy bed access.
+
+A blanket in a contrasting color or pattern can add visual interest to the bed. Adding multiple layers to a bed not only allows for temperature flexibility, it also helps complete the comfy feel
+
+            ]]>
+
+        </item>
+    </array>
+    <array name="BedNews">
+        <item>Base Layers </item>
+        <item> Bottom Sheet</item>
+        <item> Blanket</item>
+        <item>Top Sheet </item>
+
+    </array>
+    <array name="BedImage">
+        <item>@drawable/bed1</item>
+        <item>@drawable/bed</item>
+        <item>@drawable/bed2</item>
+        <item>@drawable/bed3</item>
+    </array>
+</resources>

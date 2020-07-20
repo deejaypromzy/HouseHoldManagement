@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+app:layout_behavior="@string/appbar_scrolling_view_behavior"
+tools:context="com.projectwork.householdmanagement.ViewExpenses"
+tools:showIn="@layout/activity_view_expenses">
+<ListView
+    android:id="@+id/view_expense_list"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="true"
+    android:divider="@android:color/transparent"
+    android:dividerHeight="10dp" >
+
+</ListView>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127391631064",
+    "firebase_url": "https://householdmanagement-26b6a.firebaseio.com",
+    "project_id": "householdmanagement-26b6a",
+    "storage_bucket": "householdmanagement-26b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127391631064:android:3f475623386eb4d9",
+        "android_client_info": {
+          "package_name": "com.projectwork.householdmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127391631064-3ih8m5ths25ubi6ec2abe4k9i08mbgnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projectwork.householdmanagement",
+            "certificate_hash": "9885a31fd69662108a8cdc76c45e7b7d025eccb6"
+          }
+        },
+        {
+          "client_id": "127391631064-auflk3rvvtrkc0koc17c0c0nrp6isc56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcn1nNB9CIP3OxeCRQ-XZ9GNgkYLICYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127391631064-auflk3rvvtrkc0koc17c0c0nrp6isc56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

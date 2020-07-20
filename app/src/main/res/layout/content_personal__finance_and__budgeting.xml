@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.projectwork.householdmanagement.Personal_Finance_and_Budgeting"
+    tools:showIn="@layout/activity_personal__finance_and__budgeting">
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:padding="20dp"-->
+<!--        android:orientation="vertical">-->
+
+<!--        <android.support.v7.widget.Toolbar-->
+<!--            android:id="@+id/toolbar"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="?attr/actionBarSize"-->
+<!--            android:layout_marginBottom="20dp"-->
+<!--            app:popupTheme="@style/AppTheme.PopupOverlay" />-->
+
+<!--        <pl.bclogic.pulsator4droid.library.PulsatorLayout-->
+<!--            android:id="@+id/pulsator"-->
+<!--            android:layout_width="200sp"-->
+<!--            android:layout_height="200sp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:layout_marginTop="-80dp"-->
+<!--            android:gravity="center"-->
+<!--            app:pulse_color="@android:color/white"-->
+<!--            app:pulse_count="3"-->
+<!--            app:pulse_duration="5000"-->
+<!--            app:pulse_interpolator="Decelerate"-->
+<!--            app:pulse_repeat="0"-->
+<!--            app:pulse_startFromScratch="false">-->
+
+<!--            <com.jesusm.holocircleseekbar.lib.HoloCircleSeekBar-->
+<!--                android:id="@+id/picker"-->
+<!--                android:layout_width="100sp"-->
+<!--                android:layout_height="100sp"-->
+<!--                android:layout_centerHorizontal="true"-->
+<!--                android:layout_centerVertical="true"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:gravity="center"-->
+<!--                app:max="100"-->
+<!--                app:pointer_color="@color/white"-->
+<!--                app:pointer_halo_color="@color/point_halo_color"-->
+<!--                app:pointer_size="10dp"-->
+<!--                app:text_color="@color/text_color"-->
+<!--                app:text_size="20sp"-->
+<!--                app:wheel_active_color="@color/wheel_active_color"-->
+<!--                app:wheel_unactive_color="@color/wheel_unactive_color" />-->
+
+<!--        </pl.bclogic.pulsator4droid.library.PulsatorLayout>-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@android:color/white">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/income_t5"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text=" Total Income : "-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="    GHC "-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/totalIncome"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="00"-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--        </LinearLayout>-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@drawable/background_webview_toolbar">-->
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text=" Income Left : "-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="      GHC "-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/Income"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="00:"-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--        </LinearLayout>-->
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@drawable/background_white">-->
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="5dp"-->
+<!--                android:text=" Total Expenses :"-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="GHC"-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/totalExpenses"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="5dp"-->
+<!--                android:text="00"-->
+<!--                android:textAppearance="?android:attr/textAppearanceLarge" />-->
+
+<!--        </LinearLayout>-->
+
+
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:orientation="horizontal">-->
+<!--            <android.support.v7.widget.AppCompatButton-->
+<!--                android:id="@+id/AddIncome"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginEnd="20dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:background="@color/colorTextHint"-->
+<!--                android:text="Add Income" />-->
+<!--            <android.support.v7.widget.AppCompatButton-->
+<!--                android:id="@+id/AddExpenses"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:background="@color/colorTextHint"-->
+<!--                android:text="Add Expenses" />-->
+<!--        </LinearLayout>-->
+
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:orientation="horizontal">-->
+<!--            <android.support.v7.widget.AppCompatButton-->
+<!--                android:id="@+id/AddNewCategory"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginEnd="20dp"-->
+<!--                android:layout_weight="1"-->
+<!--                android:background="@color/colorTextHint"-->
+<!--                android:text="Add New Category" />-->
+<!--            <android.support.v7.widget.AppCompatButton-->
+<!--                android:id="@+id/AccountHistory"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_weight="1"-->
+<!--                android:background="@color/colorTextHint"-->
+<!--                android:text="Account History" />-->
+<!--        </LinearLayout>-->
+
+
+<!--    </LinearLayout>-->
+
+</android.support.v4.widget.NestedScrollView>

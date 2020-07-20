@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Pulsator4Droid">
+        <attr name="pulse_count" format="integer" />
+        <attr name="pulse_duration" format="integer" />
+        <attr name="pulse_color" format="color" />
+        <attr name="pulse_repeat" format="integer" />
+        <attr name="pulse_maxScale" format="float" />
+        <attr name="pulse_startFromScratch" format="boolean" />
+        <attr name="pulse_interpolator" format="enum">
+            <enum name="Linear" value="0" />
+            <enum name="Accelerate" value="1" />
+            <enum name="Decelerate" value="2" />
+            <enum name="AccelerateDecelerate" value="3" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="MaxHeightScrollView">
+        <attr name="maxHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="ParticleView">
+        <attr name="pv_host_text" format="string" />
+        <attr name="pv_host_text_size" format="dimension" />
+        <attr name="pv_particle_text" format="string" />
+        <attr name="pv_particle_text_size" format="dimension" />
+        <attr name="pv_text_color" format="color" />
+        <attr name="pv_background_color" format="color" />
+        <attr name="pv_text_anim_time" format="integer" />
+        <attr name="pv_spread_anim_time" format="integer" />
+        <attr name="pv_host_text_anim_time" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="MKLoader">
+        <attr name="mk_color" format="color" />
+        <attr name="mk_type">
+            <enum name="Sharingan" value="11" />
+            <enum name="TwinFishesSpinner" value="7" />
+            <enum name="ClassicSpinner" value="2" />
+
+            <enum name="LineSpinner" value="2" />
+            <enum name="FishSpinner" value="1" />
+            <enum name="PhoneWave" value="10" />
+
+            <enum name="ThreePulse" value="3" />
+            <enum name="FourPulse" value="4" />
+            <enum name="FivePulse" value="5" />
+
+            <enum name="Worm" value="8" />
+            <enum name="Whirlpool" value="9" />
+            <enum name="Radar" value="6" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="PasswordView">
+        <attr name="strikeThrough" format="boolean" />
+        <attr name="eyeTint" format="color" />
+    </declare-styleable>
+
+
+    <declare-styleable name="PreferenceHeader">
+        <!-- Identifier value for the header. -->
+        <attr name="id" format="integer" />
+        <!-- The title of the item that is shown to the user. -->
+        <attr name="title" />
+        <!-- The summary for the item. -->
+        <attr name="summary" format="string" />
+        <!-- An icon for the item. -->
+        <attr name="icon" />
+        <!-- The fragment that is displayed when the user selects this item. -->
+        <attr name="fragment" format="string" />
+    </declare-styleable>
+
+    <attr name="onePref_toolbarStyle" format="reference" />
+</resources>
